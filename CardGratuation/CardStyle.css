@@ -1,0 +1,219 @@
+body{
+
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    max-height: 1920px;
+    min-height: 568px;
+    width: 100%;
+
+    background-color: #313133;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-top: 25px;
+
+}
+
+.rulesText{
+
+    color: #E7E7E7;
+    font-family: sans-serif;
+
+    font-size: 20px;
+
+}
+
+@keyframes animetionObject {
+    
+    0%{
+
+        color: #E7E7E7;
+
+    }
+
+    50%{
+
+        color: #313133;
+
+    }
+
+    100%{
+
+        color: #E7E7E7;
+
+    }
+
+}
+.object{
+
+    animation: animetionObject 2s infinite ease-out;
+
+}
+
+#bodyCard{
+
+    height: 95%;
+    width: 90%;
+
+    background-color: #2E2D33;
+
+    border-radius: 8px;
+
+    box-shadow: 0 0 15px rgb(7, 0, 15);
+
+}
+.areaDetal{
+
+    
+    width: 100%;
+
+    background-color: #E7E7E7;
+
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+    gap: 5px;
+
+
+}
+.unit{
+
+    height: 12px;
+    width: 12px;
+
+    background-color: #2E2D33;
+
+    border-radius: 100%;
+
+}
+    #unit_01{
+
+        margin-left: 10px;
+
+    }
+
+.text_1{
+
+    height: 20%;
+    width: 100%;
+
+    background-color: transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+
+}
+
+.areaDivision{
+
+    height: 2%;
+    width: 100%;
+
+    background-color: transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#lineDivision{
+
+    width: 210px;
+
+}
+
+.text_2{
+
+    height: 30%;
+    width: 100%;
+
+    background-color: transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+
+}
+
+.areaButton{
+
+    height: 20%;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: transparent;
+
+
+}
+#ruleButton{
+
+    height: 80px;
+    width: 200px;
+
+    border: solid #E7E7E7 2px;
+    border-radius: 8px;
+
+    outline: none;
+
+    background-color: transparent;
+
+    cursor: pointer;
+
+    color: #E7E7E7;
+    
+    font-size: 20px;
+
+    transition: all 0.2s background ;
+
+}
+#ruleButton:active{
+
+    background-color: #E7E7E7;
+    color: #2E2D33;
+
+    transition: all 0.2s background;
+}
+
+.detals{
+
+    height: 23%;
+
+    width: 100%;
+
+    border-radius: 8px;
+
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+
+
+    display: flex;
+    align-items: start;
+    justify-content: end;
+
+    flex-direction: column;
+    
+    padding: 10px;
+
+}
+#detalsFont{
+
+    font-size: 17px;
+
+}
