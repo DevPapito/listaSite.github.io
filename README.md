@@ -8,7 +8,7 @@
 <!--- To convert the gif in URL used the GIPHY website --->
 
 <!--- GIF CAMPE 01 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1ZmMyb3hjbHlvcjZmNDJoM292bHk5cTViMXNxcTR2c2p0MmY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVz7PT6q2DXWUngeKJ/giphy.gif" width="600px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4ODJ4c2tweGpqOGtlNjVxZ29jZmppeGJleXJtcjA1Mm04OGcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w8lGyvLAeUr7HchMMu/giphy.gif">
 <br>
 
 ____
@@ -17,11 +17,7 @@ ____
 
 <!--- SCRIPT --->
 <p>
-Esse é um projeto que desenvolvi para aprendizado de conexão com MySQL em Python, tratamento de dados e formulario back-end. 
-  
-No projeto é possivel adicionar dados nos campos (Nome, Email e Sobre), inspirado em informações de uma entrevista de emprego ou algo semelhante.
 
-Também comportanto um arquivo de banco de dados (formularioData.sql) e arquivos do website inspirado nesse programa em Html e Css (index.html e style_formulario.css), o mesmo possui outros arquivos python(pacotes) criados por mim com o objetivo conexão do banco MySQL e tratamento de Strings(conjuto de caracteres do usuário).
 </p>
 
 <!--- TITLE --->
@@ -30,7 +26,6 @@ Também comportanto um arquivo de banco de dados (formularioData.sql) e arquivos
 <!--- LS --->
 <ul>
   
-<li>Python</li>
 <li>Html e Css</li>
 
 </ul>
@@ -39,33 +34,18 @@ Também comportanto um arquivo de banco de dados (formularioData.sql) e arquivos
 <h2>Pontos Principais Do Projeto</h2>
 
 <!--- SCRIPT --->
-<p>O campo foi criado em base de um design utilizando da ferramente Figma, a principal biblioteca em uso é a do python(Tkinter), uma biblioteca gráfica simples, antiga porém foi perfeita para o projeto.
+<p>Essa tela inicial e bla
 </p>
 
 <!--- GIF CAMPE 02 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ2ZGQ3Y3k5N2t6OXlmZHRwZXZkZHA0emliMWFtaG1wNDA5YTd5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNQt9gNJegfQ2ldBsc/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZhOWE3M25iaW5kY2lxY3llZzVyMWQydWt0dmxmNmdqdDNxeDI4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AoolacYDfcnpupcG5q/giphy.gif">
 
 <!--- SCRIPT --->
 <p>A janela é otimizada para o minimo em 500px de largura e 768px de altura, para o máximo 1366px de largura e 768px de altura, dada essa resolução máxima por ser da minha maquina pessoal.
 </p>
 
 <!--- GIF CAMPE 03 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVrcDI2aDhpbXkzb2FiMWhwMTV6YmRpMWdyZ3k1N29jaG55enZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENxszo97fY5DJ1FVuy/giphy.gif">
-
-<!--- SCRIPT --->
-<p>Além de direcionar ao banco de dados, no terminal da operação é possivel receber as informações já processadas no mesmo momento de envio via terminal</p>
-
-<!--- GIF CAMPE 04 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5wd3YzZzY5OXFxYWE4anphbG5kbXU4eHoxMncyaWE5bjl4OXB1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jI33Ij1TZFA8t7uuCL/giphy.gif">
-
-<!--- SCRIPT --->
-<p>O site comporta das resoluções 1366px de largura e 768px de altura para cima.
-  
-Seus botões são funcionais e possuindo de 4 botões para hyperLink e 1 em tag de botão para envio de formulário ou confirmação.
-</p>
-
-<!--- GIF CAMPE 05 --->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFxODJuZXN5MmtqaTJhMmF3dzh6MWVlY21vemxtNW94NTFsa3NnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1EYm70yjBbxhH7EyL/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl5YjMzY3Y4MGpsZDQ3OXptaHllNDB3MHBiM3kwN2R2aWNtN2NheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KhibCN3f37sHwYxCpP/giphy.gif">
 
 <!--- TITLE --->
 <h2>Disponibilidade De Uso</h2>
