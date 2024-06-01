@@ -16,7 +16,11 @@ ____
 <h2>Projeto</h2>
 
 <!--- SCRIPT --->
-<p>
+<p>Esse projeto foi feito para suprir a necessidade de ajudar os convidados sendo eles os 'formandos' e seus convites para a formatura do 9-ANO da escola cujo participava.
+
+Usando de formato site estático, para mais agelidade na entrega.
+
+No projeto usei do serviço Hostinger e configurei para ser acessado via QRcode.
 
 </p>
 
@@ -26,7 +30,7 @@ ____
 <!--- LS --->
 <ul>
   
-<li>Html e Css</li>
+<li>Html5 e Css3</li>
 
 </ul>
 
@@ -34,14 +38,17 @@ ____
 <h2>Pontos Principais Do Projeto</h2>
 
 <!--- SCRIPT --->
-<p>Essa tela inicial e bla
+<p>Tela inicial para ajudar ao usuário a utilizar a lista, usando de animações CSS @keyFrame para um destaque personalizado, junto no canto inferior esquerdo informações como (Nome da escola, Programador, Série da turma).
+
 </p>
 
 <!--- GIF CAMPE 02 --->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZhOWE3M25iaW5kY2lxY3llZzVyMWQydWt0dmxmNmdqdDNxeDI4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AoolacYDfcnpupcG5q/giphy.gif">
 
 <!--- SCRIPT --->
-<p>A janela é otimizada para o minimo em 500px de largura e 768px de altura, para o máximo 1366px de largura e 768px de altura, dada essa resolução máxima por ser da minha maquina pessoal.
+<p>O sistema de marcação é feito com um ( input type="checkBox" ) modificado, para acessar os estilos do container( div ).
+  
+Para uma visibilidade e usabilidade mais agradavel ao usuário, foi feito indicativos de feedback, como check animado, alteração da cor de background e fonte.
 </p>
 
 <!--- GIF CAMPE 03 --->
@@ -51,10 +58,11 @@ ____
 <h2>Disponibilidade De Uso</h2>
 
 <!--- TITLE --->
-<h3><i>FECHADO</i></h3>
+<h3><i>ABERTO</i></h3>
 
 <!--- SCRIPT --->
-<p> | Não disponivel para uso</p>
+<p> | Disponivel para uso</p>
+<a href="https://devpapito.github.io/listasite/">Click aqui para acessar o site </a>
 
 <!--- TITLE --->
 <h2>Contato</h2>
